@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  "创世纪经文提要"
+title:  "创世记经文提要"
 date:   2018-09-28 22:05:54
 categories: 圣经
-tags: 圣经 创世纪
-excerpt: 创世纪经文提要
+tags: 圣经 创世记
+excerpt: 创世记经文提要
 ---
 
 * content
 {:toc}
 
 #### 书名及解释
-<<创世纪>>，意思为起初。
+<<创世记>>，意思为起初。
 
 #### 作者
 摩西
