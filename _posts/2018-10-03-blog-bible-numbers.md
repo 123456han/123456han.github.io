@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "民数记经文提要"
-date:   2018-10-01 22:05:54
+date:   2018-10-03 22:05:54
 categories: 圣经
 tags: 圣经 民数记
 excerpt: 民数记经文提要
