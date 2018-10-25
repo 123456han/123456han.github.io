@@ -2,7 +2,7 @@
 layout: post
 title:  "红黑树"
 date:   2018-09-28 17:30:54
-categories: 数据结构
+categories: 数据结构和算法
 tags: 红黑树
 excerpt: 红黑树的概念和性质
 ---
