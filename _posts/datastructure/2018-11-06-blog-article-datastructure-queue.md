@@ -4,7 +4,7 @@ title:  "队列"
 date:   2018-11-06 18:11:54
 categories: 数据结构与算法
 tags: 数据结构 算法
-excerpt: 队列测试
+excerpt: 队列
 ---
 
 * content
