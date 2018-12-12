@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "以斯帖记经文提要"
-date:   2018-12-12 16:05:54
+date:   2018-12-12 21:05:54
 categories: 圣经
 tags: 圣经 以斯帖记
 excerpt: 以斯帖记经文提要
